@@ -1,5 +1,5 @@
 {
-  "name": "utf8fy",
+  "name": "@kamataryo/utf8fy",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:kamataryo/utf8fy.git",
