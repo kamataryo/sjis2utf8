@@ -1,0 +1,12 @@
+{
+  "name": "utf8fy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kamataryo/utf8fy.git",
+  "author": "kamataryo <mugil.cephalus+Ciconia.local@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "iconv-lite": "^0.5.1"
+  }
+}
