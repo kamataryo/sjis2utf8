@@ -1,6 +1,6 @@
 {
   "name": "@kamataryo/utf8fy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": "cli.js",
   "repository": "git@github.com:kamataryo/utf8fy.git",
   "author": "kamataryo <mugil.cephalus+Ciconia.local@gmail.com>",
